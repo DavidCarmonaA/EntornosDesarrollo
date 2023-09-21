@@ -25,7 +25,7 @@ _**Carlos, Lord of Cynder**_
 
 *Esto son apuntes.*
 
-##Introducción
+## Introducción
 
 Otra línea.
 
